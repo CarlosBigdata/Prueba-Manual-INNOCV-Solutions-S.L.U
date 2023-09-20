@@ -1,0 +1,19 @@
+Título: 
+  Pestaña de CONTACTO
+Paso a Paso:
+  1. Entrar en la URL  https://www.innocv.com/contacto. 
+  2. Pulsar la pestaña CONTACTO.
+  3. Situarse en el Mapa y con el botón CTRL del teclado y el ratón, alejar y acercar el Zoom.
+  4. Rellenar los datos del Formulario CONTACTANOS.
+  5. Pulsar el botón ENVIAR FORMULARIO
+
+Resultados Esperados:
+1. En la URL definida existe una pestaña de CONTACTO.
+2. Al pulsar la pestaña se despliega uan nueva ventana en la que se dispone de los siguientes campos: Número de teléfono, email de contacto, ubicación física de la empresa junto con un mapa, 
+formulario para rellenar.
+3. El mapa se acerca y se aleja visualizandose correctamente la información.
+4. Es posible escribir en los campos del formulario y guardan la información.
+5. Se envia el formulario correctamente indicnado al usuario que la acción ha sido satisfactoria.
+
+No lo he incluido por no alargarlo pero detrás del punto 4 sería necesario incluir un paso para cada campo en el que se compruebe que cada campo del formulario SOLO permite introducir datos con el formato correcto
+(por ejemplo: en el mail es obligatoria la arroba, en el campo de nombre no se peude introducir datos númericos, en el teléfono solo permite datos numéricos, etc....)
