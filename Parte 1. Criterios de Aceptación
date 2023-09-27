@@ -13,5 +13,5 @@ Cuando:
 Entonces:
 
   Exista la pestaña de contacto.
-  Disponga de la siguietne información: Teléfono, Correo electrónico, Formulario y ubicación física de la empresa (con dirección y mapa).
+  Disponga de la siguiente información: Teléfono, Correo electrónico, Formulario y ubicación física de la empresa (con dirección y mapa).
   Permita rellenar el formulario y funcione el botón para enviarlo, devolviendo un feedback al usuario.
